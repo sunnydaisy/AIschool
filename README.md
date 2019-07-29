@@ -3,5 +3,5 @@
 
 |Week  |            explain           |
 |------|------------------------------|
-|Week1 |   Python examples            |
-|Week2 |   Python data Analysis Tool  |
+|Week1 |   Python Data Analysis       |
+|Week2 |                              |
