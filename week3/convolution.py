@@ -26,4 +26,4 @@ Visualize(image, 3, 3)
 kernel_init = tf.constant_initializer(kernel)
 
 conv2d = keras.layers.Conv2D(filters=1, kernel_size=2, padding='VALID', kernel_initializer=kernel_init)(image)
-Visualize(conv2d(), 2, 2)
+Visualize(conv2d.numpy(), 2, 2)
